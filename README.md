@@ -10,7 +10,7 @@
 • pip install requests
 • pkg install git
 • git clone https://github.com/DekuraDev/data-gempa-bumi
-• cd git-user && python bmkg.py
+• cd data-gempa-bumi && python bmkg.py
 ```
 #### update 
 ```
