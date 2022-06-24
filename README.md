@@ -18,3 +18,7 @@
 ```
 #### Screenshot
 ![foto](https://github.com/DekuraDev/data-gempa-bumi/blob/main/screenshot.jpg)
+
+#### Report bug
+
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-Message-green?style=for-the-badge&logo=Whatsapp)](https://wa.me/+6281567607136)
