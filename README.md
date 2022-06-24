@@ -7,8 +7,8 @@
 • pkg update
 • pkg upgrade
 • pkg install python
-• pip install requests
 • pkg install git
+• pip install requests
 • git clone https://github.com/DekuraDev/data-gempa-bumi
 • cd data-gempa-bumi && python bmkg.py
 ```
